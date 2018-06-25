@@ -1,0 +1,31 @@
+<resources>
+
+    <!-- General -->
+    <string name="app_name">MyCooks</string>
+    <string name="short_desc">An app to store and share recipes</string>
+    <string name="test_date">January 1, 1970</string>
+
+    <!-- Recipes -->
+    <string name="my_recipes">My Recipes</string>
+    <string name="recipe_categories">Categories</string>
+    <string name="category_all_recipes">All Recipes</string>
+    <string name="category_breakfast">Breakfast</string>
+    <string name="category_lunch">Lunch</string>
+    <string name="category_dinner">Dinner</string>
+    <string name="category_dessert">Dessert</string>
+
+    <!-- Grocery List -->
+    <string name="my_groceries">My Groceries</string>
+
+    <!-- Menu -->
+    <string name="menu_logout">Sign Out</string>
+    <string name="menu_account">My Account</string>
+    <string name="menu_help">Help</string>
+    <string name="menu_feature_request">Feature Request</string>
+    <string name="menu_create_recipe">Create Recipe</string>
+    <string name="menu_create_grocery_list">Create Grocery List</string>
+
+    <!-- Login -->
+    <string name="google_login">Continue with Google</string>
+
+</resources>

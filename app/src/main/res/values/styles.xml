@@ -1,0 +1,29 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Main styles -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <item name="android:windowBackground">@color/colorWhite</item>
+        <item name="android:actionOverflowButtonStyle">@style/MenuButton</item>
+    </style>
+
+    <!-- Toolbar -->
+    <style name="MenuButton" parent="@android:style/Widget.ActionButton.Overflow">
+        <item name="android:src">@drawable/menu_icon24x24</item>
+    </style>
+
+    <style name="ToolbarPopupMenuStyle" parent="@android:style/Widget.PopupMenu">
+        <item name="android:colorBackground">@color/colorPrimary</item>
+        <item name="android:textColor">@color/colorWhite</item>
+    </style>
+
+    <!-- Buttons -->
+    <style name="AppTheme.BlueRipple">
+        <item name="colorControlHighlight">@color/colorGoogleHighlight</item>
+    </style>
+
+</resources>

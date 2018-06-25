@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/itemMainCreateRecipe"
+        android:icon="@drawable/new_recipe24x24"
+        android:title="@string/menu_create_recipe"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/itemMainCreateGroceryList"
+        android:icon="@drawable/new_groceries24x24"
+        android:title="@string/menu_create_grocery_list"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/itemMainAccount"
+        android:title="@string/menu_account" />
+    <item
+        android:id="@+id/itemMainRequest"
+        android:title="@string/menu_feature_request" />
+    <item
+        android:id="@+id/itemMainHelp"
+        android:title="@string/menu_help" />
+    <item
+        android:id="@+id/itemMainLogout"
+        android:title="@string/menu_logout" />
+</menu>

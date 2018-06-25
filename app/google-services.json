@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "94565839406",
+    "firebase_url": "https://mycooksapp.firebaseio.com",
+    "project_id": "mycooksapp",
+    "storage_bucket": "mycooksapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94565839406:android:21745c4499d6988f",
+        "android_client_info": {
+          "package_name": "com.mycooksapp.mycooks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94565839406-coakigavjis3upc2ssihc2jjrf0kaqrb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycooksapp.mycooks",
+            "certificate_hash": "7ea26eeee347576cd6e32dd6d1dd1f9c95c8291a"
+          }
+        },
+        {
+          "client_id": "94565839406-gaulu7kb3m83758hdptgs36jp7j6ho6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2nOhcrBMt-kLvrspt1pN10Ivuz_0VEnc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94565839406-gaulu7kb3m83758hdptgs36jp7j6ho6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
